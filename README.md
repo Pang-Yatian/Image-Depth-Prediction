@@ -6,7 +6,7 @@ We apply a ResNet to predict the object distance from the camera, based on the i
 It can be used in robot obstacle avoidance.
 
 ## Result
-
+(running on laptop with poor processing ability, low frame rate)
 ![image](/gif/Prediction.gif)
 
 ## Models
